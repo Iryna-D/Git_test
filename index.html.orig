@@ -59,10 +59,14 @@
         integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <link rel="stylesheet" href="css/style.css">
 
+<<<<<<< HEAD
     <!-- <link rel="stylesheet/less" type="text/css" href="less/less.style1.less">
     <script src="less/node_modules/less/dist/less.min.js"></script> -->
 
-    <title>Lab1&Lab2+Lab3(merge) Git&GitHub</title>
+    <title>Lab 2</title>
+=======
+    <title>Lab 3 Git&GitHub</title>
+>>>>>>> master
 
 
 </head>
